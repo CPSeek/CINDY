@@ -1,6 +1,7 @@
 
 # CINDY
-A prototype of sink call-site classification method(CPSeeker), a static backtracking analysis method of accelerating the command injection vulnerability discovery in embedded firmware.
+A prototype of sink call-site classification method named CINDY (Command Injection
+VulNerability Detection with Backtracking AnalYsis, CINDY), a static backtracking analysis method of accelerating the command injection vulnerability discovery in embedded firmware.
 
 <img src=cindy.png width=60% />
 
