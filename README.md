@@ -4,8 +4,6 @@ A prototype of sink call-site classification method(CPSeeker), a static backtrac
 
 <img src=cindy.png width=60% />
 
-We are preparing our code and data.
-
 # Research paper
 
 We present our approach and findings of this work in the following research paper: <br>
